@@ -1,17 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). See original README content below.
-
-# ado-test1
-
-Experimenting with the Azure DevOps REST API and the azuer-devops-extension-ui in a plain vanilla REACT App.
-
-1. Import the new modules and rebuild with no other changes.
-1. Add the Header component from azure-devops-ui
-    - removed test target from packgage.json, could not get the test-library to work with this version of react
-    - The Header component worked fine.
-1. Add a Page component to App, place Header in the Page
-1. Add a Button to the Page component
-
-___
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
@@ -55,27 +42,3 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
